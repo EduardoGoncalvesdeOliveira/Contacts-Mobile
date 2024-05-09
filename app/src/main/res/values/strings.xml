@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile-Contacts</string>
+    <string name="title">New Contacts</string>
+    <string name="contact_name">Contact Name</string>
+</resources>
